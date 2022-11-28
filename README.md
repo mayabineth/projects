@@ -12,8 +12,6 @@ https://users-library.netlify.app/
 3. Jobs Search Management for Users - usage of React, NodeJS and MongoDB to allow users register/ log-in 
 and save new jobs with updated status (NodeJS, ReactJS)
 
-https://redux-toolkit-jobster.netlify.app/
-
 4. Chrome Popup Extension - usage of React and API to show data about the current active tab, number of 
 unique domains that the user browsed through and a reset button (ReactJS)
 
